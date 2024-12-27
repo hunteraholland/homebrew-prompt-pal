@@ -1,4 +1,4 @@
-class PromptPal < Formula
+class Promptpal < Formula
     desc "Short description of what your CLI does"
     homepage "https://github.com/hunteraholland/prompt-pal"
     url "https://github.com/hunteraholland/prompt-pal/archive/refs/tags/v0.1.0.tar.gz"
