@@ -9,7 +9,7 @@ class Promptpal < Formula
   
     def install
       system "cargo", "build", "--release"
-      bin.install "target/release/prompt-pal"
+      bin.install "target/release/promptpal"
     end
   
     test do
